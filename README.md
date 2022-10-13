@@ -23,4 +23,4 @@ La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione
 | Sarina   | 142,64 |
 
 
-## Guida
+## Guida all'utilizzo
