@@ -2,7 +2,7 @@
 
 
 
-| utente | credito (€) |
+| **utente** | **credito (€)** |
 | --- | --- |
 | Gianluca | 00,00 |
 | Federica | 00,00 |
