@@ -22,7 +22,7 @@
 
 # Scopo della pagina
 Lo scopo di questa pagina è quello di semplificare la gestione della carta del docente per chiunque ne voglia fare utilizzo.
-La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione fondi carta](#gestione-fondi)) e una guida ([guida all'uso](#guida-alluso)) per effettuare acquisti online su vari siti come [amazon](https://www.amazon.it/), [ibis](https://www.ibs.it/), [librerira universitaria](https://www.libreriauniversitaria.it/), [progetti sonori](https://www.progettisonori.it/) ed altri.
+La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione fondi carta](#gestione-fondi)) e una guida ([guida all'uso](#guida-alluso)) per effettuare acquisti online su vari siti come [amazon](https://www.amazon.it/), [ibis](https://www.ibs.it/), [librerira universitaria](https://www.libreriauniversitaria.it/), [progetti sonori](https://www.progettisonori.it/) ed [altri](#acquistare-su-altri-siti).
 
 
 # Gestione fondi
