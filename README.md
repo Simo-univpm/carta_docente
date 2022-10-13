@@ -9,16 +9,15 @@
     - [login su cartadeldocente.istruzione.it](#login-su-cartadeldocenteistruzioneit)
     - [generazione buono](#generazione-buono)
     - [eventuale annullamento del buono e rimborso](#eventuale-annullamento-del-buono-e-rimborso)
-- [acquisto](#acquisto)
-  - [amazon](#amazon)
+  - [acquistare su Amazon](#acquistare-su-amazon)
     - [prodotti acquistabili con la carta](#)
     - [convertire il buono generato in buoni amazon](#)
     - [utilizzare i buoni](#)
     - [spedizioni non incluse](#)
-  - [ibs](#ibs)
-  - [libreriauniversitaria](#libreriauniversitaria)
-  - [progetti sonori](#progetti-sonori)
-  - [altro](#altro)
+  - [acquistare su Ibs](#acquistare-su-ibs)
+  - [acquistare su Libreriauniversitaria](#acquistare-su-libreriauniversitaria)
+  - [acquistare su Progetti sonori](#acquistare-su-progetti-sonori)
+  - [acquistare su altri siti](#acquistare-su-altri-siti)
 
 
 # scopo della pagina
@@ -52,13 +51,13 @@ In caso di errore o ripensamenti è possibile annullare il buono generato (ovvia
 
 # Acquisto
 
-## Amazon
+## Acquistare su Amazon
 ### Prodotti acquistabili con la carta
 ### Convertire il buono generato in buoni amazon
 ### Utilizzare i buoni
 ### Spedizioni non incluse
 
-## Ibs
-## Libreriauniversitaria
-## Progetti sonori
-## Altro
+## Acquistare su Ibs
+## Acquistare su Libreriauniversitaria
+## Acquistare su Progetti sonori
+## Acquistare su altri siti
