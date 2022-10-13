@@ -1,5 +1,4 @@
-# Gestione carta del docente
-repo creata solo ed esclusivamente per questa tabella
+# Gestione fondi carta del docente
 
 
 
