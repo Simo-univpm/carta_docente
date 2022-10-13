@@ -4,12 +4,12 @@
 ## Indice
 - [scopo della pagina](#scopo-della-pagina)
 - [gestione fondi carta](#gestione-fondi-carta)
-- [guida](#guida)
+- [guida all'uso](#guida-alluso)
 
 
 ## scopo della pagina
 Lo scopo di questa pagina è quello di semplificare la gestione della carta del docente per chiunque ne voglia fare utilizzo.
-La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione fondi carta](#gestione-fondi-carta)) e una guida ([guida](#guida)) per effettuare acquisti online su vari siti come amazon, ibis, libreria universitaria, progetti sonori ed altri.
+La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione fondi carta](#gestione-fondi-carta)) e una guida ([guida all'uso](#guida-alluso)) per effettuare acquisti online su vari siti come amazon, ibis, libreria universitaria, progetti sonori ed altri.
 
 
 ## Gestione fondi carta
@@ -23,4 +23,4 @@ La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione
 | Sarina   | 142,64 |
 
 
-## Guida all'utilizzo
+## Guida all'uso
