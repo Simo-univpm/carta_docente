@@ -42,7 +42,7 @@ Di seguito la guida all'utilizzo della carta con **login effettuato tramite post
 
 ## Ottenere il buono
 ### Login su cartadeldocente.istruzione.it
-Per ottenere il buono bisogna autenticarsi sul sito della [carta del docente](https://www.cartadeldocente.istruzione.it/#/), quindi cliccare "**Entra con SPID**" nell'angolo in alto a destra e poi selezionare "**PosteID**" nel menù a tendina. Nella schermata successiva dovete inserire il vostro nome utente e la vostra password e cliccare su "ENTRA CON SPID"; una volta cliccato verrà inviato un codice di conferma sul vostro cellulare che dovrete inserire per proseguire.
+Per ottenere il buono bisogna autenticarsi sul sito della [carta del docente](https://www.cartadeldocente.istruzione.it/#/), quindi cliccare "**Entra con SPID**" nell'angolo in alto a destra e poi selezionare "**PosteID**" nel menù a tendina. Nella schermata successiva dovete inserire il vostro nome utente e la vostra password e cliccare su "**ENTRA CON SPID**"; una volta cliccato verrà inviato un codice di conferma sul vostro cellulare che dovrete inserire per proseguire.
 
 ### Generazione buono
 Una volta effettuato il login sul portale della carta del docente si può procedere alla creazione del buono, quindi per crearne uno nuovo cliccare sus
