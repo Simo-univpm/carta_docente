@@ -6,7 +6,7 @@
 - [gestione fondi carta](#gestione-fondi)
 - [guida all'uso](#guida-alluso)
   - [ottenere il buono](#ottenere-il-buono)
-    - [login su cartadeldocente.istruzione.it](#login)
+    - [login su cartadeldocente.istruzione.it](#login-su-cartadeldocenteistruzioneit)
     - [generazione buono](#generazione-buono)
     - [eventuale annullamento del buono e rimborso](#eventuale-annullamento-del-buono-e-rimborso)
 - [acquisto](#acquisto)
