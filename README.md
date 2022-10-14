@@ -50,10 +50,10 @@ Per ottenere il buono bisogna autenticarsi sul sito della [carta del docente](ht
 Nella schermata successiva dovete inserire il vostro nome utente e la vostra password e cliccare su "**ENTRA CON SPID**"; una volta cliccato verrà inviato un codice di conferma sul vostro cellulare che dovrete inserire per proseguire.
 
 ### Generazione buono
-Una volta effettuato il login sul portale della carta del docente si può procedere alla creazione del buono, quindi per crearne uno nuovo cliccare sus
+Una volta effettuato il login sul portale della carta del docente si può procedere alla creazione del buono, quindi per crearne uno nuovo cliccare
 
 ### Eventuale annullamento del buono e rimborso
-In caso di errore o ripensamenti è possibile annullare il buono generato (ovviamente prima di averlo speso), basta fare sus
+In caso di errore o ripensamenti è possibile annullare il buono generato (ovviamente prima di averlo speso), basta fare
 
 # Acquisto
 
