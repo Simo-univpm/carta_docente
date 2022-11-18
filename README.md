@@ -2,7 +2,6 @@
 
 
 # Indice
-- [scopo della pagina](#scopo-della-pagina)
 - [gestione fondi carta](#gestione-fondi)
 - [guida all'uso](#guida-alluso)
   - [ottenere il buono](#ottenere-il-buono)
@@ -20,17 +19,12 @@
   - [acquistare su altri siti](#acquistare-su-altri-siti)
 
 
-# Scopo della pagina
-Lo scopo di questa pagina è quello di semplificare la gestione della carta del docente per chiunque ne voglia fare utilizzo.
-La pagina prevede una tabella contenente i fondi rimanenti per utente ([gestione fondi carta](#gestione-fondi)) e una guida ([guida all'uso](#guida-alluso)) per effettuare acquisti online su vari siti come [amazon](https://www.amazon.it/), [ibis](https://www.ibs.it/), [librerira universitaria](https://www.libreriauniversitaria.it/), [progetti sonori](https://www.progettisonori.it/) ed [altri](#acquistare-su-altri-siti).
-
-
 # Gestione fondi
 | **utente** | **credito (€)** |
 | --- | --- |
 | Gianluca | 00,00 |
 | Federica | 00,00 |
-| Patrizia | 51,44 |
+| Patrizia | 17,44 |
 | Simone   | 179,09 |
 | Sarina   | 142,64 |
 
