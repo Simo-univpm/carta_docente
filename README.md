@@ -19,7 +19,7 @@
   - [acquistare su altri siti](#acquistare-su-altri-siti)
 
 
-# Gestione fondi
+# Gestione fondi 2022
 | **utente** | **credito (€)** |
 | --- | --- |
 | Gianluca | 00,00 |
