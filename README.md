@@ -26,7 +26,7 @@
 | Federica | 00,00 |
 | Patrizia | 17,44 |
 | Simone   | 141,09 |
-| Sarina   | 142,64 |
+| Sarina   | 120,64 |
 
 
 # Guida all'uso
