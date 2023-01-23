@@ -10,7 +10,7 @@
     - [eventuale annullamento del buono e rimborso](#eventuale-annullamento-del-buono-e-rimborso)
 
 
-# Gestione fondi 2022
+# Gestione fondi 2023
 | **utente** | **credito (€)** |
 | --- | --- |
 | Gianluca | 00,00 |
