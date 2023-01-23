@@ -8,15 +8,6 @@
     - [login su cartadeldocente.istruzione.it](#login-su-cartadeldocenteistruzioneit)
     - [generazione buono](#generazione-buono)
     - [eventuale annullamento del buono e rimborso](#eventuale-annullamento-del-buono-e-rimborso)
-  - [acquistare su Amazon](#acquistare-su-amazon)
-    - [prodotti acquistabili con la carta](#)
-    - [convertire il buono generato in buoni amazon](#)
-    - [utilizzare i buoni](#)
-    - [spedizioni non incluse](#)
-  - [acquistare su Ibs](#acquistare-su-ibs)
-  - [acquistare su Libreriauniversitaria](#acquistare-su-libreriauniversitaria)
-  - [acquistare su Progetti sonori](#acquistare-su-progetti-sonori)
-  - [acquistare su altri siti](#acquistare-su-altri-siti)
 
 
 # Gestione fondi 2022
@@ -48,16 +39,3 @@ Una volta effettuato il login sul portale della carta del docente si può proced
 
 ### Eventuale annullamento del buono e rimborso
 In caso di errore o ripensamenti è possibile annullare il buono generato (ovviamente prima di averlo speso), basta fare
-
-# Acquisto
-
-## Acquistare su Amazon
-### Prodotti acquistabili con la carta
-### Convertire il buono generato in buoni amazon
-### Utilizzare i buoni
-### Spedizioni non incluse
-
-## Acquistare su Ibs
-## Acquistare su Libreriauniversitaria
-## Acquistare su Progetti sonori
-## Acquistare su altri siti
