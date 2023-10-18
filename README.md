@@ -1,4 +1,4 @@
-# Gestione fondi 2024
+# 2024
 | **utente** | **credito (€)** |
 | --- | --- |
 | Gia e Fede | 166,00 |
