@@ -9,4 +9,4 @@
 
 Nota:
 
-Ci sono 38 euro non spesi per la categoria musei, questi buoni saranno annullabili a partire dal 27/10, colpa mia scusate.
+Ci sono 38 euro non spesi per la categoria musei, questi buoni saranno annullabili a partire dal 27/10/2023, colpa mia scusate.
