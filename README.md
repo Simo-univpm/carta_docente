@@ -9,5 +9,5 @@
 
 * Ci sono 38 euro non spesi per la categoria musei, il buono sarà annullabile a partire dal 27/10/2023, colpa mia scusate.
 
-## Raccolta punti
+## Raccolte punti
 * Punti su www.ibs.it (CartaEffe): 1042
