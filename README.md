@@ -2,7 +2,7 @@
 | **Utente** | **Credito (€)** |
 | --- | --- |
 | Gia e Fede | 87,62 |
-| Patri e Leo | 183,00 |
+| Patri e Leo | 86,00 |
 | Simo e Sari | 269,00 |
 
 ## Note
