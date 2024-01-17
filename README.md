@@ -2,12 +2,10 @@
 | **Utente** | **Credito (€)** |
 | --- | --- |
 | Gia e Fede | 87,62 |
-| Patri e Leo | 86,00 |
-| Simo e Sari | 269,00 |
+| Patri e Leo | 70,32 |
+| Simo e Sari | 243,44 |
 
 ## Note
-
-* Ci sono 38 euro non spesi per la categoria musei, il buono sarà annullabile a partire dal 27/10/2023, colpa mia scusate.
 
 ## Raccolte punti
 * Punti su www.ibs.it (CartaEffe): 1042
