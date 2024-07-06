@@ -3,7 +3,7 @@
 | --- | --- |
 | Gia e Fede | 0 |
 | Patri e Leo | 70 |
-| Simo e Sari | 215 |
+| Simo e Sari | 181 |
 
 ## Note
 
