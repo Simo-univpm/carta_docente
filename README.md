@@ -1,9 +1,9 @@
 # Anno 2023/2024
 | **Utente** | **Credito (€)** |
 | --- | --- |
-| Gia e Fede | 87,62 |
+| Gia e Fede | 0 |
 | Patri e Leo | 70,32 |
-| Simo e Sari | 243,44 |
+| Simo e Sari | 215 |
 
 ## Note
 
