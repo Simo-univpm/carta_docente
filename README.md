@@ -8,4 +8,4 @@
 ## Note
 
 ## Raccolte punti
-* Punti su www.ibs.it (CartaEffe): 1042
+* Punti su www.ibs.it (CartaEffe): 1460
